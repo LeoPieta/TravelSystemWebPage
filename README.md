@@ -29,5 +29,5 @@ export default {
 - Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
 - Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
 
-This project need This project requires the backend from the repository: https://github.com/rocketseat-education/nlw-journey-nodejs
+This project requires the backend from the repository: https://github.com/rocketseat-education/nlw-journey-nodejs
 
